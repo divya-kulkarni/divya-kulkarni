@@ -1,8 +1,8 @@
 ### 🙋‍♀️ Introduction
 
 - Hi, I'm Divya, a software engineer with a passion for frontend development.
-- Whether it's crafting elegant frontend interfaces with React, building robust backend services with Node.js, I'm always eager to learn and grow.
 - Ever since I was a toddler, I have had a keen interest in art. This is what pulled me to frontend development, where I can merge technology with my love for art and aesthetics.
+- Whether it's crafting elegant frontend interfaces with React or building robust backend services with Node.js, I'm always eager to learn and grow.
 - When I'm not coding, you can find me in my cozy corner reading a book, painting with acrylics, or exploring the great outdoors with my film camera.
 
 🌱 I'm currently learning Blender and Three.js, and working on an e-commerce website for a home-grown jewellery business.
